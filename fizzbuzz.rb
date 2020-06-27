@@ -19,7 +19,7 @@ def fizzbuzz(int)
 end
 
 def fizzbuzz(int)
-  if int i% 3 || 5 == 0
+  if int !% 3 || 5 == 0
     "nil"
   end
 end
